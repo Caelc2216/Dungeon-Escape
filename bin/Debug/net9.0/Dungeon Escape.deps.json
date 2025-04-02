@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Dungeon Escape/1.0.0": {
+        "runtime": {
+          "Dungeon Escape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dungeon Escape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
